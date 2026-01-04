@@ -1,0 +1,8 @@
+{
+  "name": "Tsunagi - Visual Editor Marketplace",
+  "description": "A luxury, visual-first marketplace connecting world-class video editors with clients.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
